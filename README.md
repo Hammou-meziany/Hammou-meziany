@@ -5,11 +5,12 @@
   excited to share my projects and
   contributions with the community
 ## 👀 Interests
-  **Flutter Development:** Crafting
+I'm particularly interested in:
+- **Flutter Development:** Crafting
   beautiful and performant mobile
   apps.
-  **UI/UX Design**
-  **Moble App Architecture**
+- **UI/UX Design**
+- **Mobile App Architecture**
 ## 🚀 Technologies & Tools
 - **Languages:** Dart, Java.
 - **Frameworks:** Flutter, Firebase.
@@ -19,7 +20,7 @@ feel free to reach out to me via:
 - **Email:** [hamoowork5@gmail.com]
 - **LinkedIn:**
   [[Hammou meziany](https://www.linkedin.com/in/hammou-meziany)]
- Thanks for visiting my profile!
+Thanks for visiting my profile!
 Let's build something amazing
 together! 🚀
 
